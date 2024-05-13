@@ -62,3 +62,4 @@ The next definition was taken from the book:
 
 "The **Strategy Pattern** defines a family of algorithms, encapsulates each one, and makes them interchangeable. Strategy lets the algorithm vary independently from clients that use it."
 
+url book reference: https://a.co/d/gTboyfg
